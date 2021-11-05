@@ -19,7 +19,7 @@ export default function Layout({ children }) {
         />
         <meta name="viewport" content="width=device-width" />
         <meta charSet="utf-8" />
-        <title>web3 starter</title>
+        <title>Berbs Test Net</title>
         <meta name="description" content="web3 starter nextjs - shiv" />
         <link rel="icon" href="/favicon.ico" sizes="any" />
       </Head>
