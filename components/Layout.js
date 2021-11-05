@@ -19,8 +19,8 @@ export default function Layout({ children }) {
         />
         <meta name="viewport" content="width=device-width" />
         <meta charSet="utf-8" />
-        <title>Berbs Test Net</title>
-        <meta name="description" content="web3 starter nextjs - shiv" />
+        <title>Rare Redirect</title>
+        <meta name="description" content="Rare Redirect" />
         <link rel="icon" href="/favicon.ico" sizes="any" />
       </Head>
       {children}
